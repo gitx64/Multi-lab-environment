@@ -88,6 +88,13 @@ This lab includes several advanced configurations to ensure services work correc
     sudo sysctl -w vm.max_map_count=262144
     ```
 
+## Yet to implement:
+* nginx proxy manager
+* watchtower
+* dozzle
+* netdata
+* portrainer
+
 ---
 
 ## 📝 License
